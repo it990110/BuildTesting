@@ -34,7 +34,7 @@ export default {
   verbose: true,
   setupFiles: ['./jest/setup.js'],
   testEnvironmentOptions: {
-    url: 'https://BuildTesting.io/',
+    url: 'https://buildesting.io/',
   },
   testEnvironment: 'node',
   testPathIgnorePatterns: ignorePatterns,
