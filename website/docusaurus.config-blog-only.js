@@ -9,10 +9,10 @@
 export default {
   title: 'Docusaurus blog only!',
   tagline: 'Build optimized websites quickly, focus on your content',
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
+  organizationName: 'it990110',
+  projectName: 'BuildTesting',
   baseUrl: '/blog-only/',
-  url: 'https://docusaurus.io',
+  url: 'https://buildtesting.io',
   // We can only warn now, since we have blog pages linking to non-blog pages...
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -28,7 +28,7 @@ export default {
         blog: {
           routeBasePath: '/',
           path: 'blog',
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/it990110/buildtesting/edit/main/website/',
           postsPerPage: 3,
           feedOptions: {
             type: 'all',
